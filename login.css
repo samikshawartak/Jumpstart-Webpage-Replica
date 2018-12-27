@@ -1,0 +1,74 @@
+
+
+body
+{
+	background-color: #0b1926;
+}
+
+img
+{
+	margin-left: 43%;
+	margin-top: 68px;
+	height: 160px;
+	width: 150px;
+}
+
+table
+{
+	padding: 18px;
+}
+
+input[type="text"],[type="password"]
+{
+	width: 300px;
+	height: 40px;
+	background-color: #24303c;
+	color: white;
+	border-radius: 10px;
+	border-color: transparent;
+	padding: 2px;
+}
+
+input[type="button"].l
+{
+	width: 300px;
+	height: 40px;
+	background-color: rgb(85, 205, 145);
+	color: white;
+	border-radius: 40px;
+	border-color: transparent;
+	font-weight: bold;
+}
+
+input[type="button"].l:hover
+{
+	background-color: #30a66b;
+	cursor: pointer;
+}
+
+input[type="button"].k
+{
+	width: 300px;
+	height: 40px;
+	background-color: #525c65;
+	color: white;
+	border-radius: 40px;
+	border-color: rgb(85, 205, 145);
+	font-weight: bold;
+}
+
+input[type="button"].k:hover
+{
+	background-color: rgb(85, 205, 145);
+	border-color: transparent;
+	cursor: pointer;
+}
+
+a.fp
+{
+	text-decoration: none;
+	color: white;
+	font-family: "arial";
+	font-size: 14px;
+	cursor: pointer;
+}
